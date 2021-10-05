@@ -1,6 +1,6 @@
 # Felipe Bastos, 22 anos.
 
-Web developer. Atualmente estou trabalhando com React, NodeJS e estudando Back-end.
+Web developer. Atualmente trabalhando com React, NodeJS e estudando Back-end.
 
 <a href="https://www.linkedin.com/in/felipe-bastos-a78221155/">
   
