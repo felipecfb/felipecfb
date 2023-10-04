@@ -1,6 +1,6 @@
 # Felipe Bastos, 23 anos.
 
-Web developer. Atualmente trabalhando com React.  
+Sou um desenvolvedor Fullstack apaixonado por criar experiências incríveis na web e em aplicativos móveis. Com forte experiência em React/Next.js, Node.js e React Native, sou apaixonado por tecnologia e estou sempre aprendendo novas habilidades para aprimorar meu conjunto de habilidades.
 
 ## Skillset
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
